@@ -8,7 +8,7 @@ describe('Contact Test', function(){
 		let contact = {
 			name: 'agbaje',
 			phone_number: '08086056000',
-            email: 'nonso@yahoo.com',
+            email: 'nelson@yahoo.com',
             location:'lagos'
 		}
 	   request(app)
